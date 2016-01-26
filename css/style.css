@@ -215,11 +215,11 @@ img.grayscale {
 
 .blurb {
     padding: 120px 0;
-    background-image: ""
+    background:#e3e3e3;
 }
 
 .blurb .panel {
-    background-color: transparent
+    background-color: transparent;
 }
 
 .bright {
@@ -228,7 +228,7 @@ img.grayscale {
 }
 
 .featurette {
-    background: #0a2544;
+    background: #9ad3de;
     padding: 50px 0;
     color: #fff
 }
@@ -249,18 +249,6 @@ img.grayscale {
 
 .featurette-item>i:hover {
     font-size: 68px
-}
-
-.callout {
-    color: #000;
-    padding-top: 7%;
-    height: 100%;
-    width: 100%;
-    background: url(image/home/dronework.png);
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover
 }
 
 .gallery {
