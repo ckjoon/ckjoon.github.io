@@ -46,8 +46,9 @@ html {
 }
 
 .row {
-    margin: 0;
-    padding: 0
+    margin: 10px 10px;
+    padding: 10px 10px;
+    border:1px; 
 }
 
 header {
