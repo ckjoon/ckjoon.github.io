@@ -13,6 +13,21 @@ ul {
     letter-spacing: 2px
 }
 
+.iframe-container {    
+    padding-bottom: 60%;
+    padding-top: 30px; height: 0; overflow: hidden;
+}
+ 
+.iframe-container iframe,
+.iframe-container object,
+.iframe-container embed{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
 .scroll-down a,
 .scroll-top a,
 header {
@@ -210,7 +225,7 @@ img.grayscale {
 }
 
 .alt .lead {
-    color: #fff
+    color: #000
 }
 
 .blurb {
