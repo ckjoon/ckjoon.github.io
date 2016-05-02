@@ -215,7 +215,7 @@ img.grayscale {
 
 .blurb {
     padding: 120px 0;
-    background:#e3e3e3
+    background:#89bdd3
 }
 
 .blurb .panel {
@@ -228,7 +228,7 @@ img.grayscale {
 }
 
 .featurette {
-    background: #6e979f;
+    background: #e3e3e3;
     padding: 50px 0;
     color: #fff
 }
